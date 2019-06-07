@@ -7,7 +7,7 @@ For a period it was suddenly extremely warm outside, and therefore warm inside m
 ## Build
 Built this using:
 * [Table Fan](https://www.clasohlson.com/no/Bordvifte/36-6575)
-  * The cheapest table fan I could find (149 NOK at the time), which had to speed settings
+  * The cheapest table fan I could find (149 NOK at the time), which had two speed settings
 * [NodeMCU](http://www.nodemcu.com/index_en.html) V3
 * [Relays](https://www.gearbest.com/5v-relay-_gear/)
 * Phone Charger
