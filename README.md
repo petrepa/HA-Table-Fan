@@ -31,7 +31,13 @@ Finished product:
 ![Assembled](https://github.com/petrepa/MQTT-Table-Fan/blob/master/mqtt_fan_photos/assembled.jpg)
 
 I plan to later on make a cover for the holes where the buttons used to be, just to make the product a bit more polished. Maybe find a proper way to mount the fan in the roof or something too.
-
+#### Changes
+Instead of making a cover I decided to put in some buttons to controll the fan manually.
+![Assembled](https://github.com/petrepa/HA-Table-Fan/blob/master/mqtt_fan_photos/assembled_new.jpg)
+![New Buttons](https://github.com/petrepa/HA-Table-Fan/blob/master/mqtt_fan_photos/buttons_new.jpg)
 ## Code
 Wrote the code super quick, so there is definetly room for improvements, and I highly encourage you make some! 
 But if you want to use what I wrote, you can check it our [here](https://github.com/petrepa/Dooropener/blob/master/dooropener.ino)!
+
+### Converting to ESPHome
+This project has been converted to ESPHome for better and easier integration with Home Assistant. The yaml can be found [here](https://github.com/petrepa/HA-Table-Fan/blob/master/table_fan.yaml).
